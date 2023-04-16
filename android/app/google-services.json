@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823090247479",
+    "project_id": "sol-swap",
+    "storage_bucket": "sol-swap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823090247479:android:84cc69e50db36ec438ccb2",
+        "android_client_info": {
+          "package_name": "com.example.Sol_Swap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823090247479-ima4lsuebdk452eemqtv91ga117dr9k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV77NDOexHLodbbeDDNUVbJVTG7MMnXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823090247479-ima4lsuebdk452eemqtv91ga117dr9k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
